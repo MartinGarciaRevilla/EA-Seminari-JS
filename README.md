@@ -1,5 +1,8 @@
 # EA-JS
 
+Video Explicatiu del codi modificat: https://youtu.be/4vO1O0CLENA
+Referencies: codi profesor y chatGPT
+
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes programas en tu sistema:
