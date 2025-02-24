@@ -66,7 +66,8 @@ let person = {
 };
 console.log(typeof person, person); // object { name: 'Alice', age: 30 }
 
-const { personName, personAge } = person; // Destructuring
+const {personName, personAge } = person; // Destructuring
+console.log(personName, personAge);
 
 
 // Arrays (special object storing multiple values)

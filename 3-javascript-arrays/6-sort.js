@@ -11,3 +11,4 @@ const sortedStudents1 = students.sort(function (first, second) {
 const sortedStudents2 = students.sort((a, b) => a.age > b.age ? 1 : -1)
 
 const sortedStudents3 = students.sort((a, b) => a.age - b.age);
+console.log(sortedStudents2);
